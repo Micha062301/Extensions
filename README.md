@@ -1,8 +1,8 @@
-# 🚀 Chrome Extension Setup Guide
+#  Chrome Extension Setup Guide
 
 Follow the steps below to **test or use this Chrome extension locally**.
 
-## 📥 Installation Steps
+## Installation Steps
 
 1. **Clone the Extension Repository**
 
@@ -25,13 +25,13 @@ Follow the steps below to **test or use this Chrome extension locally**.
 5. **Enable & Use**
 
    * Make sure the extension is **enabled**.
-   * The extension is now ready to use 🎉
+   * The extension is now ready to use 
 
 ---
 
-## ✅ Notes
+##  Notes
 
 * Any changes made to the extension code require clicking **Reload** on the extension card.
 * This setup is ideal for **local testing and development**.
 
-Happy building! 🚀
+Happy building! 
