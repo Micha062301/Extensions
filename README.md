@@ -1,1 +1,0 @@
-# chrome-rename.tab-extension
